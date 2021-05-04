@@ -1,0 +1,32 @@
+
+
+}
+.tab{
+  background-color: yellow;
+
+}
+
+.a{
+  height:100px;
+  width:100%;
+  background-color: green;
+  color: white;
+  font-style: italic;
+
+
+}
+.tit{
+
+  text-align: center;
+  color: green;
+}
+.login{
+  background-color: yellow;
+  height: 600px;
+  width: 400px;
+  margin-left:600px;
+  margin-right: auto;
+  margin-top: 100px;
+  text-align: center;
+
+}
